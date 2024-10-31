@@ -5,9 +5,9 @@ const Hero = () => {
   return (
     <div className="hero-container">
       {/* <Image src={'/images/my-img.png'} className="profile-img" width={300} height={300} alt="Muhammad Anas Bakkar personal headshot" /> */}
-      <Image src={img} className="profile-img" width={300} height={300} alt="Muhammad Anas Bakkar personal headshot" />
+      <Image src={img} className="profile-img" width={300} height={300} alt="Muhammad Anas  personal headshot" />
       <div className="hero-text">
-        <h1>Hey, I'm Muhammad Anas Bakkar👋</h1>
+        <h1>Hey, I'm Muhammad Anas👋</h1>
         <p>
           I'm a software developer based in Karachi, Pakistan. I specialize in building (and occasionally designing)
           exceptional websites, applications, and everything in between.

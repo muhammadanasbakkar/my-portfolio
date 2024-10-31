@@ -14,7 +14,7 @@ const Projects = () => {
         <div className="project-header">
           <FontAwesomeIcon icon={faFolderOpen} width={"20px"} height={"20px"} className="folder-icon" />
           <div className="small-icons">
-            <a href={project.gitHubLink}>
+            <a href={project.gitHubLink} target='_blank'>
               <FontAwesomeIcon width={"20px"} height={"20px"} icon={faGithub} />
             </a>
           </div>

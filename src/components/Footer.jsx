@@ -4,7 +4,7 @@ const Footer = () => {
         <hr/>
         <div className="footer-container">
           <p>
-            © 2022 Muhammad Anas Bakkar Portfolio
+            © 2022 Muhammad Anas Portfolio
           </p>
           <div className="social_icons">
             {/* <a
